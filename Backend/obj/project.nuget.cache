@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3rgSiu04SAXbxiRe5UvNaWXJ3IRPDc/K4rktj+uT0JesOBdOmAtGx8bAtpjlt+I7qki8utMuJTHC5econshSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giovane\\Desktop\\LapisItemEditor-main\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giovane\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
+    "C:\\Users\\Giovane\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovane\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Giovane\\.nuget\\packages\\sevenzip\\19.0.0\\sevenzip.19.0.0.nupkg.sha512",
+    "C:\\Users\\Giovane\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

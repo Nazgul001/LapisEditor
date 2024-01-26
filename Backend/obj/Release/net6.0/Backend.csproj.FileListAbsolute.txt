@@ -1,0 +1,12 @@
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\bin\Release\net6.0\Backend.deps.json
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\bin\Release\net6.0\Backend.dll
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\bin\Release\net6.0\Backend.pdb
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.AssemblyInfo.cs
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.dll
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\refint\Backend.dll
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\Backend.pdb
+C:\Users\Giovane\Desktop\LapisItemEditor-main\Backend\obj\Release\net6.0\ref\Backend.dll
